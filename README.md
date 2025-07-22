@@ -1,0 +1,1 @@
+# dynamodb-to-firetore-migrate
